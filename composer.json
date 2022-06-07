@@ -1,5 +1,6 @@
 {
     "name": "laravel/octane",
+    "version": "1.2.13",
     "description": "Supercharge your Laravel application's performance.",
     "keywords": ["laravel", "octane", "roadrunner", "swoole"],
     "license": "MIT",
